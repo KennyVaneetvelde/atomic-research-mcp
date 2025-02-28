@@ -1,6 +1,8 @@
 # Agentic Research MCP
 
-A powerful web research pipeline built on the Model Context Protocol (MCP) and Atomic Agents framework.
+A powerful web research pipeline MCP built with the [Atomic Agents framework](https://github.com/BrainBlend-AI/atomic-agents).
+
+For a full breakdown of the code, please check this article
 
 ## Overview
 
