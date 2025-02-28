@@ -17,7 +17,7 @@ async def main():
     # Connect to the server using the current Python interpreter
     server_params = StdioServerParameters(
         command=sys.executable,
-        args=["-m", "agentic_research_mcp.server"],
+        args=["-m", "atomic_research_mcp.server"],
     )
 
     logger.info("\n📱 Starting MCP client...\n")

@@ -5,14 +5,14 @@ import traceback
 from mcp.server.fastmcp import FastMCP
 
 # Import required components for the web search pipeline
-from agentic_research_mcp.agents.query_agent import create_query_agent, QueryAgentInputSchema
-from agentic_research_mcp.agents.qa_agent import create_qa_agent, QuestionAnsweringAgentInputSchema
-from agentic_research_mcp.tools.tavily_search import (
+from atomic_research_mcp.agents.query_agent import create_query_agent, QueryAgentInputSchema
+from atomic_research_mcp.agents.qa_agent import create_qa_agent, QuestionAnsweringAgentInputSchema
+from atomic_research_mcp.tools.tavily_search import (
     TavilySearchTool,
     TavilySearchToolConfig,
     TavilySearchToolInputSchema
 )
-from agentic_research_mcp.tools.webpage_scraper import (
+from atomic_research_mcp.tools.webpage_scraper import (
     WebpageScraperTool,
     WebpageScraperToolInputSchema
 )

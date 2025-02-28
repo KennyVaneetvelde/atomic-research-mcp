@@ -6,7 +6,7 @@ from pydantic import Field
 from atomic_agents.agents.base_agent import BaseIOSchema, BaseAgent, BaseAgentConfig
 from atomic_agents.lib.components.system_prompt_generator import SystemPromptGenerator
 
-from agentic_research_mcp.tools.webpage_scraper import WebpageScraperToolOutputSchema
+from atomic_research_mcp.tools.webpage_scraper import WebpageScraperToolOutputSchema
 
 from ..config import ChatConfig
 

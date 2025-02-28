@@ -71,7 +71,7 @@ User Question → Query Generation → Web Search → Content Scraping → Answe
 Start the MCP server:
 
 ```bash
-python -m agentic_research_mcp.server
+python -m atomic_research_mcp.server
 ```
 
 ### Testing with the Client
@@ -95,7 +95,7 @@ The system returns comprehensive research results including:
 ## Project Structure
 
 ```
-agentic_research_mcp/
+atomic_research_mcp/
 ├── agents/
 │   ├── query_agent.py    # Generates optimized search queries
 │   └── qa_agent.py       # Synthesizes answers from scraped content
