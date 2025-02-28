@@ -1,4 +1,4 @@
-# Agentic Research MCP
+# Atomic Research MCP
 
 A powerful web research pipeline MCP built with the [Atomic Agents framework](https://github.com/BrainBlend-AI/atomic-agents).
 
