@@ -1,8 +1,10 @@
 # Atomic Research MCP
 
-A powerful web research pipeline MCP built with the [Atomic Agents framework](https://github.com/BrainBlend-AI/atomic-agents).
+A powerful web research pipeline MCP built using the [Atomic Agents framework](https://github.com/BrainBlend-AI/atomic-agents).
 
 For a full breakdown of the code, please [check out this article](https://medium.com/ai-advances/using-custom-agents-in-cursor-windsurf-copilot-and-others-to-supercharge-your-workflow-f936b630c5e5?sk=30cd72ee79ef8333d5935d556f79471e) 
+
+## Support
 
 Do you like this project? [Please consider a small donation](https://www.paypal.com/paypalme/KennyVaneetvelde), it means the world to me!
 
