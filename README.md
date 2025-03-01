@@ -4,6 +4,8 @@ A powerful web research pipeline MCP built with the [Atomic Agents framework](ht
 
 For a full breakdown of the code, please [check out this article](https://medium.com/ai-advances/using-custom-agents-in-cursor-windsurf-copilot-and-others-to-supercharge-your-workflow-f936b630c5e5?sk=30cd72ee79ef8333d5935d556f79471e) 
 
+Do you like this project? [Please consider a small donation](https://www.paypal.com/paypalme/KennyVaneetvelde), it means the world to me!
+
 ## Overview
 
 This project implements an advanced web research pipeline that leverages the Model Context Protocol (MCP) and Atomic Agents to provide comprehensive answers to research questions. The pipeline automates the entire research process:
