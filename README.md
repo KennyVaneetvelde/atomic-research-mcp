@@ -78,6 +78,14 @@ Start the MCP server:
 python -m atomic_research_mcp.server
 ```
 
+OR
+```bash
+[rootfolder]\atomic-reseearch-mcp\.venv\Scripts\atomic-research
+```
+
+![image](https://github.com/user-attachments/assets/8b04863a-a5ed-4f90-8f56-723c9bd388ab)
+
+
 ### Testing with the Client
 
 Run the test client to verify functionality:
