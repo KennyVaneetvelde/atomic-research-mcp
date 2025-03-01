@@ -4,6 +4,8 @@ A powerful web research pipeline MCP built using the [Atomic Agents framework](h
 
 For a full breakdown of the code, please [check out this article](https://medium.com/ai-advances/using-custom-agents-in-cursor-windsurf-copilot-and-others-to-supercharge-your-workflow-f936b630c5e5?sk=30cd72ee79ef8333d5935d556f79471e) 
 
+For now, this requires an API key for [Tavily](https://tavily.com/) and also [an OpenAI API key ](https://platform.openai.com/api-keys). In the future, I plan to make this more configurable so you can use SearxNG instead of Tavily or use Groq or Anthropic instead of OpenAI, thanks to the Atomic Agents framework this is all easy and possible, it just requires a bit of time and I wanted to get the initial project out there. **Feel free to contribute, though!**
+
 ## Support
 
 Do you like this project? [Please consider a small donation](https://www.paypal.com/paypalme/KennyVaneetvelde), it means the world to me!
