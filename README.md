@@ -83,6 +83,8 @@ OR
 [rootfolder]\atomic-reseearch-mcp\.venv\Scripts\atomic-research
 ```
 
+OR configure it in, for example, Cursor
+
 ![image](https://github.com/user-attachments/assets/8b04863a-a5ed-4f90-8f56-723c9bd388ab)
 
 
